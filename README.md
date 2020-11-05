@@ -1,6 +1,6 @@
 # Proyecto Mariscos
 
-Esto fue un proyecto durante mi etapa de estudiante para la asignatura de Interfaces Computacionales. Para realizar el proyecto utilicé:
+Proyecto de desarrollo web Front-End para un establecimiento de comida de mariscos. Este proyecto solo es para fines de aprendizaje de tecnologías web para la parte del Front-End. Para realizar el proyecto utilicé:
 
     * HTML
     * Bootstrap
